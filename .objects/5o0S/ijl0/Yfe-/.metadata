@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome BP Plc Share Price (BP.) Ordinary US$0",
+  "Type": "Screen",
+  "Id": "Yfe--xYgBUyiGhJzpgI-2Q",
+  "Reference": "zB2jojdD602wFBSm6PyOkQ/Yfe--xYgBUyiGhJzpgI-2Q",
+  "ParentRef": "zB2jojdD602wFBSm6PyOkQ/ijl0Y3nlK0aeH4uzB5iJvw",
+  "Created": "2025-07-16T14:45:55.265077Z",
+  "Updated": "2025-07-16T14:45:55.265077Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

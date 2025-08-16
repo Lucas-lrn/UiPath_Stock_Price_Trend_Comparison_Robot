@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="DqF94-6kvkOuBJUTfbU_lQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1030" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAACrSURBVFhH7ZaxCcMwEEXVp7z+5rnG4BE8SuZIETKJyQgewYQU2UJBhUHoBwWD9Q+MDl7zv068QoVCjDF4AgEbCNhAwAYCNhCwCaL2FrWY8QyVSX1+vuim4q4p73+OqN28BUZvgYurQJou0AWKpVXUrhVS31RgF8U95xD4iNqjQuqbCrg/wi7QBY4UeInaUmHeFlsJ/OO+LXoJDPBJZAMBGwjYQMAGAjYQsPkCJxYhxfmVUvIAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='Exxon Mobil Corp Share Price Comm Stk NPV (CDI)' /&gt;" Url="https://www.hl.co.uk/shares/shares-search-results/e/exxon-mobil-corp-comm-stk-npv" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="6869c97c91cfca028f1455608285a2ea.jpg" xmlns="">0CcKR2hmhFESk3YaZKAzJbQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

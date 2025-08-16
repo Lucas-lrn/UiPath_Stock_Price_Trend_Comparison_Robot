@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f15K2a9BQE6Qt_WhKQHAMg" Reference="zB2jojdD602wFBSm6PyOkQ/6u0hmTilvUG1XPwO8OueKQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="hl.co.uk/shares/shares-search-results/b/bp-plc-ordinary-us$0.25" CVScreenId="391e8320-73f4-4150-81c8-2f2f07147d19" DesignTimeRectangle="474, 500, 199, 53" ElementType="Text" FullSelectorArgument="&lt;webctrl id='ls-ask-BP.-L' tag='SPAN' /&gt;" Guid="51e26bf3-6cc8-4814-8e49-7b4d8ee44784" ScopeSelectorArgument="&lt;html app='chrome.exe' title='BP Plc Share Price (BP.) Ordinary US$0.25 | BP.' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1261e48389dc03bc35d4a45316d01e56.png" xmlns="">0iULwFsrZi0y-ofpHWLxjxA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

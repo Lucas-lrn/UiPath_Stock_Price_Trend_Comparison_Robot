@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nxd8Q2eHc0eKWoDO-Jch9g" Reference="zB2jojdD602wFBSm6PyOkQ/5U9MAU64SE-jhMB7GQ-eKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="hl.co.uk/shares/shares-search-results/e/exxon-mobil-corp-comm-stk-npv" CVScreenId="9f78a896-52fc-4d8e-b154-9f3ab8ccec9a" DesignTimeRectangle="452, 500, 189, 53" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='$*' parentid='security-price' tag='SPAN' /&gt;" Guid="4451aaf6-d7f7-4b43-8e0c-de9c656227c2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Exxon Mobil Corp Share Price Comm Stk NPV (CDI)' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="113bea8194e4445308194e448780bc1b.png" xmlns="">0rKep_qCk60mAOnsYqOV_tQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
